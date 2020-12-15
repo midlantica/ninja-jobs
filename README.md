@@ -1,5 +1,9 @@
 # ninja-jobs
 
+Preview
+
+![Preview](./image.png)
+
 ## Project setup
 ```
 npm install
